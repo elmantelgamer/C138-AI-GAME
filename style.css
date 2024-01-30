@@ -1,0 +1,21 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+.heading h3{
+    display: inline;
+
+}
+.heading button{
+    float: right;
+    border: 1px solid whitesmoke;
+
+}
+.big_mario_man{
+    width: 100%;
+
+}
+#button2,#status{
+    font-size: 22px;
+    box-shadow: 0px 0px 30px red;
+}
